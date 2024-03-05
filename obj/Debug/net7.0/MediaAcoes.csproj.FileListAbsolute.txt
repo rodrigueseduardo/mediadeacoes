@@ -1,0 +1,14 @@
+/Users/eduardorodrigues/Documents/Projetos/MediaAcoes/bin/Debug/net7.0/MediaAcoes
+/Users/eduardorodrigues/Documents/Projetos/MediaAcoes/bin/Debug/net7.0/MediaAcoes.deps.json
+/Users/eduardorodrigues/Documents/Projetos/MediaAcoes/bin/Debug/net7.0/MediaAcoes.runtimeconfig.json
+/Users/eduardorodrigues/Documents/Projetos/MediaAcoes/bin/Debug/net7.0/MediaAcoes.dll
+/Users/eduardorodrigues/Documents/Projetos/MediaAcoes/bin/Debug/net7.0/MediaAcoes.pdb
+/Users/eduardorodrigues/Documents/Projetos/MediaAcoes/obj/Debug/net7.0/MediaAcoes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardorodrigues/Documents/Projetos/MediaAcoes/obj/Debug/net7.0/MediaAcoes.AssemblyInfoInputs.cache
+/Users/eduardorodrigues/Documents/Projetos/MediaAcoes/obj/Debug/net7.0/MediaAcoes.AssemblyInfo.cs
+/Users/eduardorodrigues/Documents/Projetos/MediaAcoes/obj/Debug/net7.0/MediaAcoes.csproj.CoreCompileInputs.cache
+/Users/eduardorodrigues/Documents/Projetos/MediaAcoes/obj/Debug/net7.0/MediaAcoes.dll
+/Users/eduardorodrigues/Documents/Projetos/MediaAcoes/obj/Debug/net7.0/refint/MediaAcoes.dll
+/Users/eduardorodrigues/Documents/Projetos/MediaAcoes/obj/Debug/net7.0/MediaAcoes.pdb
+/Users/eduardorodrigues/Documents/Projetos/MediaAcoes/obj/Debug/net7.0/MediaAcoes.genruntimeconfig.cache
+/Users/eduardorodrigues/Documents/Projetos/MediaAcoes/obj/Debug/net7.0/ref/MediaAcoes.dll
